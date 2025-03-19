@@ -13,7 +13,8 @@ Ensure you have the following before proceeding:
 1. **Install the `.deb` package** by running the following command in your terminal:  
    ```bash
    sudo dpkg -i oks_station_setup_app.deb
-   ```  
+   ```
+   note: at first time it will take some time to pull docker images and install
 
 2. **Launch the application:**  
    - After installation, search for **"OKS Station Setup App"** in your applications menu.  
