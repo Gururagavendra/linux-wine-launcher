@@ -21,10 +21,10 @@ Ensure you have the following before proceeding:
 3. **Get Started:**  
    - A pop-up window will appear.  
    - Select the desired application from the list.  
-   - You're now ready to begin coding! 🚀  
+   - You're now ready to begin! 🚀  
 
 ## Contributing  
-We welcome contributions to improve this project! Feel free to submit issues, suggest enhancements, or contribute code.  
+I welcome contributions to improve this project! Feel free to submit issues, suggest enhancements, or contribute code.  
 
 **Happy coding!** 🎉
 
