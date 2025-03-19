@@ -1,0 +1,5 @@
+Package: oks-station-setup-apps
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Gururagavendra <your.email@example.com>
+Description: A simple app that runs a Docker container

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Oks Station Setup
+Exec=/usr/local/bin/start.sh
+Icon=/usr/share/icons/rr.jpeg
+Type=Application
+Categories=Utility;
+Terminal=true
