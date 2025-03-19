@@ -22,7 +22,11 @@ Ensure you have the following before proceeding:
 3. **Get Started:**  
    - A pop-up window will appear.  
    - Select the desired application from the list.  
-   - You're now ready to begin! 🚀  
+   - You're now ready to begin! 🚀
+
+## 📽 Video Instruction  
+- A detailed video guide is available in the same directory as this document.  
+- Open the file **"oks_station_apps_setup_video.mkv"** to follow along visually.  
 
 ## Contributing  
 I welcome contributions to improve this project! Feel free to submit issues, suggest enhancements, or contribute code.  
