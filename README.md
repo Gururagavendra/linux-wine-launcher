@@ -4,6 +4,7 @@ This guide provides step-by-step instructions to install and run the Windows PPS
 
 ## Prerequisites  
 Ensure you have the following before proceeding:
+- ubuntu OS
 - **Docker** installed on your machine.  
 - A **terminal** or **command prompt** to execute commands.  
 
