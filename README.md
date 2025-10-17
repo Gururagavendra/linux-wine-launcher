@@ -17,7 +17,7 @@ Ensure you have the following before proceeding:
    note: at first time it will take some time to pull docker images and install
 
 2. **Launch the application:**  
-   - After installation, search for **"OKS Station Setup App"** in your applications menu.  
+   - After installation, search for **"Station Setup App"** in your applications menu.  
    - Click on the application to start it.  
 
 3. **Get Started:**  
@@ -27,7 +27,7 @@ Ensure you have the following before proceeding:
 
 ## 📽 Video Instruction  
 - A detailed video guide is available in the same directory as this document.  
-- Open the file **"oks_station_apps_setup_video.mkv"** to follow along visually.  
+- Open the file **"app_setup_video.mkv"** to follow along visually.  
 
 ## Contributing  
 I welcome contributions to improve this project! Feel free to submit issues, suggest enhancements, or contribute code.  
