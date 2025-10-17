@@ -1,4 +1,4 @@
-# Windows PPS and PTL Manager Software Setup
+# Setup
 
 This guide provides step-by-step instructions to install and run the Windows PPS and PTL Manager software using Docker on your system.
 
